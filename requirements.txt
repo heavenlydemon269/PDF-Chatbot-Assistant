@@ -1,1 +1,5 @@
-asd
+pypdf
+transformers
+torch
+sentencepiece
+sacrebleu
